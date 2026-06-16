@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "proaccount",
   "version": "0.0.0",
@@ -22,3 +23,29 @@
     "vite": "^5.1.0"
   }
 }
+=======
+{
+  "name": "proaccount",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "smoke:test": "node scripts/test-smoke.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.26.2",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.4.17",
+    "vite": "^5.1.0"
+  }
+}
+>>>>>>> d464ca66146aaa9f0b56f4fc0cc78e770df9f2c8
