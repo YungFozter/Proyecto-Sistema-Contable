@@ -1,0 +1,13 @@
+codigo;nombre;gestion1;gestion2
+1;Activo;0,00;0,00
+1.1;Activo Corriente;0,00;0,00
+1.1.1;Caja y Bancos;0,00;0,00
+1.1.1.1;Caja Moneda Nacional;1500,25;1800,75
+1.1.1.2;Caja Moneda Extranjera;500,00;600,50
+1.1.2;Cuentas por Cobrar;0,00;0,00
+1.1.2.1;Clientes Nacionales;1200,00;1500,00
+1.1.2.2;Clientes del Exterior;800,00;900,25
+1.2;Activo No Corriente;0,00;0,00
+1.2.1;Propiedades, Planta y Equipo;0,00;0,00
+1.2.1.1;Muebles y Enseres;2500,00;2600,00
+1.2.1.2;Equipos de Computación;4000,50;4500,75

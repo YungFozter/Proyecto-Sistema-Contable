@@ -1,0 +1,12 @@
+Detecte los nombres de las cuentas y los ordene de forma jerarquica tanto el Balance General como el Estado de Resultado.
+
+Haz esto:
+aplique la conversión a códigos de otras longitudes además de 3 dígitos (p. ej. 4 o 6 dígitos), y si sí, cómo prefieres dividirlos (regla: primera cifra vs. grupos fijos de 2 dígitos) 
+
+De un sistema de Indicadores Financieros:
+Calcular los análisis horizontales y verticales de las gestiones y a la vez generar todos los indicadores financieros de: Liquidez, Deuda, Rentabilidad, Actividad o Eficiencia. Mencionar que los indicadores pueden crecer o decrecer.
+
+Necesito que Detecte los nombres de las cuentas y los ordene de forma jerarquica.
+
+Tengo ese archivo .csv y .xlsx y necesito que me propongas un plan para poder importar correctamente el
+
